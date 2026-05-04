@@ -8,6 +8,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Template screenshot](./public/screenshot.png)
+
 ## Features
 
 - **Instant HMR** — Vite's native ESM dev server for a fast feedback loop
@@ -85,6 +87,7 @@ npm run preview
 │   └── workflows/
 │       └── main.yml        # GitHub Actions deploy workflow
 ├── public/
+│   ├── screenshot.png
 │   └── vite.svg
 ├── src/
 │   ├── App.tsx             # Root component
